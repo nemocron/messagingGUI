@@ -1,5 +1,3 @@
-# Gabriel Liau CIS345 12Pm A8
-
 from tkinter import *
 from tkinter import messagebox
 from socket import *
