@@ -94,7 +94,7 @@ def window_closing():
 
 # Create window
 window = Tk()
-window.title("CIS IM Client")
+window.title("IM Client")
 
 
 # Global Variables
